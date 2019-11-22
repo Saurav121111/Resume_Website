@@ -5,5 +5,5 @@ This project is about Resume Website.
 
 I have made this website using html,css,and javascript.
 ## Live URL
-https://saurav121111.github.io/Resume_Website/
+https://saurav121111.github.io/
 
